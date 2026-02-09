@@ -1,6 +1,6 @@
 # Aprendendo Matemática com Python
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O projeto de Extensão **Aprendendo Matemática com Python** tem como objetivo ensinar conceitos matemáticos fundamentais e intermediários com o apoio da linguagem de programação **Python**, promovendo simultaneamente o desenvolvimento do pensamento matemático e computacional.
 
@@ -8,7 +8,7 @@ O material foi desenvolvido com foco educacional, priorizando clareza conceitual
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Introduzir programação em Python de forma gradual e aplicada;
 - Utilizar Python como ferramenta para exploração de conceitos matemáticos;
@@ -17,20 +17,11 @@ O material foi desenvolvido com foco educacional, priorizando clareza conceitual
 
 ---
 
-## 🧰 Requisitos
-
-- **Python 3.10 ou superior**
-- Bibliotecas adicionais (quando indicado):
-  - `numpy`
-
----
-
-## 📂 Estrutura do Material
+## Estrutura do Material
 
 O conteúdo está organizado em arquivos Markdown independentes, cada um correspondente a um módulo temático.
 
-### 1️⃣ Fundamentos de Python
-**Arquivo:** `01 - fundamentos de Python.md`
+### 1 - Fundamentos de Python
 
 Introdução à linguagem Python, abordando:
 - Variáveis e tipos de dados
@@ -43,8 +34,7 @@ Introdução à linguagem Python, abordando:
 
 ---
 
-### 2️⃣ Estruturas de Dados
-**Arquivo:** `02 - estruturas de dados.md`
+### 2 - Estruturas de Dados
 
 Apresenta as principais estruturas de dados da linguagem:
 - Listas
@@ -58,8 +48,7 @@ Inclui aplicações práticas, exercícios e desafios com foco em organização 
 
 ---
 
-### 3️⃣ Funções e Organização de Programas
-**Arquivo:** `03 - functions.md`
+### 3 - Funções e Organização de Programas
 
 Explora a criação e o uso de funções em Python:
 - Definição de funções
@@ -74,8 +63,7 @@ O módulo enfatiza boas práticas, reutilização de código e clareza estrutura
 
 ---
 
-### 4️⃣ Tratamento de Erros e Programação Defensiva
-**Arquivo:** `04 - error_handling_notes.md`
+### 4 - Tratamento de Erros e Programação Defensiva
 
 Conteúdo dedicado à robustez de programas:
 - Tratamento de exceções (`try / except / else / finally`)
@@ -88,8 +76,7 @@ Essencial para o desenvolvimento de programas confiáveis e reutilizáveis.
 
 ---
 
-### 5️⃣ Arquivos e Manipulação de Dados
-**Arquivo:** `05 - python_files_data.md`
+### 5 - Arquivos e Manipulação de Dados
 
 Aborda operações de entrada e saída de dados:
 - Leitura e escrita de arquivos texto
@@ -101,8 +88,7 @@ Inclui exemplos práticos voltados a análise de dados, automação e processame
 
 ---
 
-### 6️⃣ Computação Numérica com NumPy
-**Arquivo:** `08 - numpy_notas_aula.md`
+### 6 - Computação Numérica com NumPy
 
 Introdução ao uso da biblioteca NumPy para matemática computacional:
 - Criação e propriedades de arrays
@@ -118,34 +104,23 @@ Este módulo conecta diretamente programação e Matemática, sendo fundamental 
 
 ---
 
-## 🧪 Metodologia
+## Metodologia
 
 - Conteúdo progressivo, do básico ao intermediário;
 - Exemplos práticos e contextualizados;
 - Exercícios e desafios em todos os módulos;
-- Ênfase no uso do código como ferramenta de exploração matemática.
+- Foco no uso do código como ferramenta de exploração matemática.
 
 ---
 
-## 📘 Público-Alvo
+## Público-Alvo
 
 - Estudantes do Ensino Médio e Superior;
 - Professores de Matemática;
-- Participantes de projetos de extensão;
 - Iniciantes em programação com interesse em aplicações matemáticas.
 
 ---
 
-## 📄 Licença e Uso
+## Licença e Uso
 
-Este material foi desenvolvido no contexto de um **Projeto de Extensão** e pode ser utilizado para fins educacionais. Ajustes, adaptações e redistribuições devem respeitar a autoria e os objetivos acadêmicos do projeto.
-
----
-
-## ✉️ Contato
-
-Projeto de Extensão: **Aprendendo Matemática com Python**  
-Instituição: UDESC / PROFMAT
-
-Para dúvidas, sugestões ou contribuições, entre em contato com a coordenação do projeto.
-
+Este material foi desenvolvido no contexto do projeto de extensão **Aprendendo Matemática com Python** e pode ser utilizado para fins educacionais. Ajustes, adaptações e redistribuições devem respeitar a autoria e os objetivos acadêmicos do projeto.
